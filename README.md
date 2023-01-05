@@ -1,9 +1,10 @@
 # Certification Java17 1Z0-829
 
 ### Index
-* [Disclaimer](#disclaimer)
+* [Sources](#sources)
 * [Exam Preparation Notes](#exam-preparation-notes)
 * [General Content](#general-content)
+* [Pomodoro Track-Record](#pomodoro-track-record)
 * [Module 01](#module-01)
 * [Module 02](#module-02)
 * [Module 03](#Module-03)
@@ -14,8 +15,7 @@
 * [Module 08](#Module-08)
 * [Module 09](#Module-09)
 
-### Disclaimer
- 1. Sources:
+### Sources
    1. [OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829](https://www.wiley.com/en-us/OCP+Oracle+Certified+Professional+Java+SE+17+Developer+Study+Guide%3A+Exam+1Z0+829-p-9781119864585)
    2. [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
    3. [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
@@ -40,6 +40,12 @@
    * Comparative: 1Z0-829[Java 17] x 1Z0-819[Java 11]
    * Compatative: Primitive Table
    * Strategical-Plan SpreedSheet
++ [*Index*](#index)
+
+### Pomodoro Track-Record
+* [Follow](https://pomodoro-tracker.com/user/179837)
+* Till now:
+![Track-Record](img.png)
 + [*Index*](#index)
 
 ### [Module 01](https://drive.google.com/file/d/1Clp9UXQP7qR36c-pHHJm10GrRc6yhKtb)
