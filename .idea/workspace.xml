@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d1df95-fb91-4fd7-bc43-999816edde11" name="Changes" comment="">
+    <list default="true" id="49d1df95-fb91-4fd7-bc43-999816edde11" name="Changes" comment="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,56 @@
       <option name="presentableId" value="Default" />
       <updated>1672956841101</updated>
     </task>
+    <task id="LOCAL-00001" summary="4) Certification Java17-1Z0829&#10;&#10;* Improving README.md">
+      <created>1673046471848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673046471848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4) Certification Java17-1Z0829&#10;&#10;* Improving README.md">
+      <created>1673046672449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673046672449</updated>
+    </task>
+    <task id="LOCAL-00003" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
+      <created>1673134118107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673134118107</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
+      <created>1673134223750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673134223750</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
+      <created>1673134281215</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673134281215</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
+      <created>1673134426102</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673134426102</updated>
+    </task>
+    <task id="LOCAL-00007" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
+      <created>1673134511261</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673134511261</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,6 +110,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="4) Certification Java17-1Z0829&#10;&#10;* Improving README.md" />
+    <MESSAGE value="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)" />
+    <option name="LAST_COMMIT_MESSAGE" value="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)" />
   </component>
 </project>
