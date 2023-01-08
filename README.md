@@ -1,4 +1,5 @@
-<h1 align="center">Oracle Certified Professional: Java SE 17 Developer 1Z0-829</h1>
+<h2 align="center">Oracle Certified Professional: Java SE 17 Developer 
+1Z0-829</h2>
 
 ### Index
 * [Resources](#resources)
@@ -52,13 +53,14 @@
    * Repeat the question
 
 ### Exam Execution Strategy
-* Round 01: Focus in reach 68%
+* **_Round 01:_** Focus in reach 68% - basic approval
   * Short-questions: Crystal clear answers
-  * Mark Questions for Round 02
-* Round 02: Focus in reach 32%
-  * Short-questions: Doubt about the answer
-  * Long-questions: Doubt about the answer
-  * Long-questions: Crystal clear answers
+  * Mark/leave the following questions for _Round 02_: _Check alternative answers anyway, just in case_
+    * Short-questions: Doubt about the answer
+    * Long-questions: Doubt about the answer
+    * Long-questions: Crystal clear answers
+* **_Round 02:_** Focus in reach 32% - optimal approval
+    * Lastly, answer _properly_ the questions marked in round 01
 
 ### General Content
    * Comparative: 1Z0-829[Java 17] x 1Z0-819[Java 11]
@@ -73,8 +75,8 @@
 
 ### Pomodoro
 * The Pomodoro technique is a time management method that can be used for any task.
-* The Track-Record does not record May 22
-![Track-Record](img.png)
+* This Track-record did not count May22(training start)
+![img_1.png](img_1.png)
 
 ### Module 01
    * Imports + Static imports
