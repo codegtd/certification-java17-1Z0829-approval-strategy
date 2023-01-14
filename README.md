@@ -1,5 +1,5 @@
-<h2 align="center">Oracle Certified Professional: Java SE 17 Developer 
-1Z0-829</h2>
+<h2 align="center">Learning Journey</h2>
+<h2 align="center">Oracle Certified Professional: Java SE 17 Developer 1Z0-829</h2>
 
 ### Index
 * [Resources](#resources)
@@ -24,8 +24,7 @@
    2. [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
    3. [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
    4. [Devnexus 2022 - Preparing for the Java Cert and Learning New Features (Part 2) - Scott S, Jeanne B](https://www.youtube.com/watch?v=zq9z_e2pMMI)
-   5. [EnthuWare Studio](https://enthuware.
-      com/oca-ocp-java-certification-resources/277-ocp-java-17-certification-preparation)
+   5. [EnthuWare Studio](https://enthuware.com/oca-ocp-java-certification-resources/277-ocp-java-17-certification-preparation)
 
 ### Theory Preparation
  1. Theory Preparation:
@@ -75,8 +74,8 @@
 
 ### Pomodoro
 * The Pomodoro technique is a time management method that can be used for any task.
-* This Track-record did not count May22(training start)
-![img_1.png](img_1.png)
+* The Track-record below did not count May22(training start)
+![img_2.png](img_2.png)
 
 ### Module 01
    * Imports + Static imports
