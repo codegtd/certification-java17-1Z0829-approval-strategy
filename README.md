@@ -18,6 +18,7 @@
 * [Module 07](#Module-07)
 * [Module 08](#Module-08)
 * [Module 09](#Module-09)
+* [Code Labs](#code-labs)
 
 ### Resources
    1. [OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829](https://www.wiley.com/en-us/OCP+Oracle+Certified+Professional+Java+SE+17+Developer+Study+Guide%3A+Exam+1Z0+829-p-9781119864585)
@@ -129,3 +130,17 @@
    * Working with Java Arrays
    * Generics and Collections
 + [*Download*](https://drive.google.com/file/d/1D8e6N5KFz5A_1shFUhFFeBsY3avV1Zeq)
+
+### Code Labs
+1. [Extras](https://github.com/codegtd/certification-java17-1Z0829-extras)
+2. [Functional Interfaces](https://github.com/codegtd/certification-java17-1Z0829-funct-interfaces)
+3. [Miscelaneous 1](https://github.com/codegtd/certification-java17-1Z0829-miscelanous)
+4. [Miscelaneous 2](https://github.com/codegtd/certification-java17-1Z0829-exam-training)
+5. [Streams Operations](https://github.com/codegtd/certification-java17-1Z0829-funct-stream-lambdas-operations)
+6. [Localization,NIO2 and JDBC](https://github.com/codegtd/certification-java17-1Z0829-localiz-NIO2-JDBC)
+7. [Concurrency](https://github.com/codegtd/certification-java17-1Z0829-funct-concurrency)
+8. [Parallel Streams](https://github.com/codegtd/certification-java17-1Z0829-funct-parallel-streams)
+9. [Streams Api 1](https://github.com/codegtd/certification-java17-1Z0829-funct-stream-api)
+10. [Streams Api 2](https://github.com/codegtd/certification-java17-1Z0829-funct-streams-file)
+11. [Modules and SPI's 1](https://github.com/codegtd/certification-java17-1Z0829-modules-spi-v1)
+12. [Modules and SPI's 2](https://github.com/codegtd/certification-java17-1Z0829-modules-spi-v2)
