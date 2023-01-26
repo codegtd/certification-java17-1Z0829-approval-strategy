@@ -31,26 +31,26 @@
  1. Theory Preparation:
     * Prepares the candidate for:
       * Technical interviews
-      * Real Daily-routine (working programming):
-        * Sources: Book + Udemy Course
+      * Real Daily-Routine technical challenges:
+        * Sources: TextBook + Udemy Course
  2. Strategy:
     * Code concept-proofs
     * Read textbooks (OCP Study Guide)
     * Take Udemy Course (Java SE 11 Developer 1Z0-819 OCP Course)
-      * Highlight courses PDF's
-      * Divide the content in 8 study-blocks
-    * Review weekly the Highlighted PDFs afte course conclusion
+      * Highlight course's PDFs
+      * Content divided in 8 study-blocks
+    * Review weekly the PDFs after course conclusion
 
 ### Exam Preparation
 1. Exam-Questions Preparation:
   * Prepares the candidate for:
     * Exam by itself
-2. Simulate REAL Exam using Enthuware Studio
+2. Simulates REAL Exam using Enthuware Studio
  * Take the Exam as the REAL one, including time management
- * Correct the simulated-exams (all questions - corrects + mistakes)
- * Check the mistakes periodically:
+ * Correct the simulated-exams (all questions: corrects + mistakes)
+ * Checking mistakes periodically:
    * Understand the reason of mistake
-   * Repeat the question
+   * Repeat the mistaken question
 
 ### Exam Execution Strategy
 * **_Round 01:_** Focus in reach 68% - basic approval
