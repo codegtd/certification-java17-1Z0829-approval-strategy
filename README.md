@@ -2,8 +2,11 @@
 <h2 align="center">Oracle Certified Professional: Java SE 17 Developer 1Z0-829</h2>
 
 ### Index
+
+* [Disclaimer](#disclaimer)
 * [Exam Toughness](#exam-toughness)
-* [Resources](#resources)
+* [Textbooks](#textbooks)
+* [Other resources](#other-resources)
 * [Theory Preparation](#theory-preparation)
 * [Exam Preparation](#exam-preparation)
 * [Exam Preparation Questions Mistakes](#exam-preparation-questions-mistakes)
@@ -23,28 +26,75 @@
 * [Module 09](#Module-09)
 * [Code Labs](#code-labs)
 * [Mindset](#mindset)
+* [YT Videos](#yt-videos)
+
+
+### Disclaimer
+* The purposal here is to document a trajectory of a developer till "1Z0-829 OCD" approval.
+* Describing and sharing experiences/materials.
+* There will be some textbook reccomendations.
+* Buying the textbooks using the links below, the author will receive a small bonus, but feel free to buy the textbooks whereever you want.
+* Instead of any bonus, the main reason here is to help people, in their journey through the "Java Certification".
+* Below, you will find courses suggestions. Yes, I did those. However...
+  * I reccomend to studying by textbooks. Why?
+    * It is **faster**, _believe me_!
+    * More **complete**;
+    * 100% **trusthfull** data;
+    * The authors are _**"real experts in the exam content/questions"**_, and:
+      * They keep in touch with the exam 100% of time (to update the textbooks)
+      * They take the exam periodically, they _get their hands dirty_!
+      * They keep in touch with Oracle, to clarify aspects about the exam.
+
 
 ### Exam Toughness
 * Oracle Java exams are considered "one of the most" tough in the software-development-world...
-* Do not hear the people say "in 2 months you will pass". In the exam Java "1Z0-829 OCD", it can take more time. Think realystically.
-* [1Z0-829 OCD](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829) | [1Z0-819 OCD](https://education.oracle.com/cat%C3%A1logo-de-produtos-ouexam-pexam_1z0-819/pexam_1Z0-819) is much harder, because it sort of englobes [comparison](https://www.selikoff.net/ocp11-819/):
+* Listen carefully, the words "in 2 months you will pass". "1Z0-829 OCD" approval, can take some time. Think 
+  realystically.
+* [1Z0-829 OCD](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829) | [1Z0-819 OCD](https://education.oracle.com/cat%C3%A1logo-de-produtos-ouexam-pexam_1z0-819/pexam_1Z0-819) can be harder, because it englobes [comparison](https://www.selikoff.net/ocp11-819/):
   * Professional Programmer I (Old 1Z0-815)
   * Professional Programmer II (Old 1Z0-817)
-* Time is crucial point - Usually, no time for reviews or regrets:
-  * 1Z0-829 OCD | 1Z0-819 OCD: 90 Minutes - 50 Questions
-  * 1Z0-815 OCP-I | 1Z0-816 OCP-II: 180 Minutes - 80 Questions
+* Time managment is crucial - Usually, no time for reviews or regrets:
+
+| Exam Code      | Java Version | Time | Questions |
+|:---------------|:---------:|:----:|:---------:|
+| 1Z0-829 OCD    | 17 | 90 Minutes  | 50 |
+| 1Z0-819 OCD    | 11 | 90 Minutes  | 50 |
+| 1Z0-815 OCP I  | 11 | 180 Minutes | 80 |
+| 1Z0-816 OCP II | 11 | 180 Minutes | 80 |
+
 * Even the OCP Study Guide Authors, [Jeanne](https://www.selikoff.net/about-jeanne/) and [Scott](https://www.selikoff.net/about-scott/), don't reach "rocket sky scores" (verified till 01-feb-2023):
   * [Jeanne’s experience taking the 1Z0-819 in the time of COVID-19](https://www.selikoff.net/2020/09/26/jeannes-experience-taking-the-1z0-819-in-the-time-of-covid-19/)
   * [Taking the 1Z0-819 Exam: Study Everything and Watch the Clock!](https://www.selikoff.net/2020/10/05/taking-the-1z0-819-exam-study-everything-and-watch-the-clock-part-1-of-2/)
   * [Jeanne’s 1Z0-829 experience](https://www.selikoff.net/2021/12/18/jeannes-1z0-829-experience/)
 
-### Resources
-   1. [OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829](https://www.wiley.com/en-us/OCP+Oracle+Certified+Professional+Java+SE+17+Developer+Study+Guide%3A+Exam+1Z0+829-p-9781119864585)
-   2. [OCP Oracle Certified Professional Java SE 17 Developer Practice Tests: Exam 1Z0-829](https://www.amazon.ca/Oracle-Certified-Professional-Developer-Practice/dp/1119864615/ref=sr_1_1?crid=19EOAO42OWY2L&keywords=OCP+Oracle+Certified+Professional+Java+SE+17+Developer+Practice+Tests%3A+Exam+1Z0-829&qid=1675291583&s=books&sprefix=ocp+oracle+certified+professional+java+se+17+developer+practice+tests+exam+1z0-829%2Cstripbooks%2C119&sr=1-1)
-   3. [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
-   4. [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
-   5. [Devnexus 2022 - Preparing for the Java Cert and Learning New Features (Part 2) - Scott S, Jeanne B](https://www.youtube.com/watch?v=zq9z_e2pMMI)
-   6. [EnthuWare Studio](https://enthuware.com/oca-ocp-java-certification-resources/277-ocp-java-17-certification-preparation)
+    
+### Textbooks
+- English Speakers:
+  - 1Z0-829 - Java 17 (recommended):
+      * [OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829](https://amzn.to/3X04E1y)
+      * [OCP Oracle Certified Professional Java SE 17 Developer Practice Tests: Exam 1Z0-829](https://amzn.to/3wY18dj)
+      * [COMBO: OCP Oracle Certified Professional Java SE 17 - Certification Kit](https://amzn.to/3Y6KJ2m)
+  - 1Z0-819 - Java 11:
+      * [OCP Oracle Certified Professional Java SE 11 Developer Study Guide: Exam 1Z0-819](https://amzn.to/3JEyyFy)
+      * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819](https://amzn.to/3RDkSwC) 
+      * [COMBO: OCP Oracle Certified Professional Java SE 11 - Certification Kit](https://amzn.to/3YsFucP)
+- Portuguese speakers:
+    - 1Z0-829 - Java 17 (recommended):
+        * [OCP Oracle Certified Professional Java SE 17 Developer Study Guide: Exam 1Z0-829](https://amzn.to/3YrntvK)
+        * [OCP Oracle Certified Professional Java SE 17 Developer Practice Tests: Exam 1Z0-829](https://amzn.to/3Yn2ytC)
+        * [COMBO: OCP Oracle Certified Professional Java SE 17 - Certification Kit](https://amzn.to/3HE40Rs)
+    - 1Z0-819 - Java 11:
+        * [OCP Oracle Certified Professional Java SE 11 Developer Study Guide: Exam 1Z0-819](https://amzn.to/3jv83HS)
+        * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819](https://amzn.to/3RxENg8)
+        * [COMBO: OCP Oracle Certified Professional Java SE 11 - Certification Kit](https://amzn.to/3ldcY0u)
+
+
+### Other resources
+1. [Udemy - Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
+2. [Udemy - Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
+3. [Devnexus 2022 - Preparing for the Java Cert and Learning New Features (Part 2) - Scott S, Jeanne B](https://www.youtube.com/watch?v=zq9z_e2pMMI)
+4. [EnthuWare Questions Studio](https://enthuware.com/oca-ocp-java-certification-resources/277-ocp-java-17-certification-preparation)
+
 
 ### Theory Preparation
  1. Theory Preparation:
@@ -84,20 +134,30 @@
      also for Professional-Life.
 
 ### Exam Execution Strategy
+* **_Doubts:_** In case of doubt:
+  * Avoid 'absolute' alternatives - prefer:
+    * _"may be"_ instead of _"will be"_
+    * _"can be"_ instead of _"must be"_
+  * Check "compilation error" when possible
 * **_Round 01:_** Focus in reach 68% - basic approval
   * Short-questions: Crystal clear answers
-  * Mark/leave the following questions for _Round 02_: _Check alternative answers anyway, "**better safe than sorry**"_
-    * Short-questions: Doubt about the answer
-    * Long-questions: Doubt about the answer
-    * Long-questions: Crystal clear answers
-* **_Round 02:_** Focus in reach 32% - optimal approval
+  * Mark the below questions for _Round 02_: _Check alternative answers anyway, "**better safe than sorry**"_
+
+| Question Type | Description                |
+|---------------|----------------------------|
+| `Short-questions` | Doubt about the answer |
+| `Long-questions`  | Doubt about the answer |
+| `Long-questions`  | Crystal clear answers |
+
+* **_Round 02:_** Focus in reach 32% - optimizing approval
     * Lastly, answer _properly_ the questions marked in round 01
 
 ### General Content
-   * Comparative: 1Z0-829[Java 17] x 1Z0-819[Java 11]
-   * Compatative: Primitive Table
-   * Strategical-Plan SpreedSheet
-   * Preparing for the Java cert and learning new features (Scott S, Jeanne B)
+   * Check in this repo:
+     * Comparative: 1Z0-829[Java 17] x 1Z0-819[Java 11]
+     * Compatative: Primitive Table
+     * Strategical-Plan SpreedSheet
+     * Preparing for the Java cert and learning new features (Scott S, Jeanne B)
 
 ### Statistics
    * PersonVUE: 2021 Value of IT Certification Report
@@ -107,7 +167,7 @@
 ### Pomodoro
 * The Pomodoro technique is a time management method that can be used for any task.
 * The Track-record below did not count May22(training start)
-![img_2.png](img_2.png)
+![img_1.png](img_1.png)
 
 ### Module 01
    * Imports + Static imports
@@ -133,7 +193,7 @@
 
 ### Module 04
    * Exception Handling
-   * Exception Handling
+   * Exception Handling Advanced
    * Database Applications with JDBC + Transactions
    * Localization
 + [*Download*](https://mega.nz/file/I3oByBxJ#Hk5PG7p-vR42HUKa6YyrW-NKrOzNER4Ai9M_2J2i05s)
@@ -176,18 +236,29 @@
 11. [Modules and SPI's 1](https://github.com/codegtd/certification-java17-1Z0829-modules-spi-v1)
 12. [Modules and SPI's 2](https://github.com/codegtd/certification-java17-1Z0829-modules-spi-v2) 
 
+
 ### Mindset:
-* Be realistic about the _**actual reason**_ for the certification, meaning... Certification must not be seen as a 
-  paper to place in your wall, on the contraty, it must be seem as a technical and complete theory preparation journey for your professional life as a developer
-* NEVER... NEVER... NEVER GIVE UP...
-* The Journey will be hard and lonely, but keep walking, keep going...
-* You won't be the first/last to work super hard to pass in the Oracle Java Exam...
-* Oracle Exams claims sacrificing, but its worthwhile, you will grow up technically a lot... Enjoy the journey...
-* When failing in the exam-simulations, keep going, dont "fell blue"...
-* Keep working and, overtime, you will find the right track to reach the enough marks to get the approval...
-* When you get upset with your failings... [whatch motivational content, like it](https://www.youtube.
-  com/watch?v=YBYuDdfEnnc), and remember...If the character got his goal, overcoming all challenges, you will do the 
-  same....
-* Before the Final Victory, a lot thinks will be fixed/rethought/adjusted/trained, till the success. When necessary 
-  CHANGE, do not keep doing the same strategy!!!
-![img.png](img.png)
+> Be realistic about the _**actual reason**_ for the certification, meaning... Certification must not be seen as a paper to place in your wall, on the contrary, it must be seem as a technical and complete theory preparation journey of professional improvements
+
+> NEVER... NEVER... NEVER GIVE UP...The Journey will be hard and lonely, but keep walking, keep going... Oracle Exams claims sacrificing, but its worthwhile, you will grow up technically a lot... Enjoy the journey...
+
+> When failing in the exam-simulations, keep going, dont "fell blue"...Keep working and, overtime, you will find the right track to reach the approval
+
+> Before the Final Victory, a lot thinks will be fixed, rethought, adjusted and trained. When necessary CHANGE, do not keep doing the same think, if it is not working!!! 
+
+
+### YT Videos
+* PT-BR: 
+  * 5 dicas de como se preparar para a certificação Java
+  * Como tirei a certificação Java 11
+  * Uma coisa que só a certificação vai te dar
+  * Meu amigo falou que certificação não vale a pena
+* EN:
+  * New OCP Exam | 1Z0-819 Released
+  * OCA Exam | My Experience | Exam Tips
+  * OCP 1Z0-819 Cleared | My Experience | Exam Tips
+  * How to take Oracle certification exam online at home
+  * EXAM DAY: Process of using onVUE App (Pearsonvue Online Exam Application) at Home or Office
+  * How To Register OCP/OCA 11 or 8 Exam
+  * Oracle Java Certification - Your Hero's Journey to Mastery
+  * Java certification Developer || Infosys in springboard portal || 2023
