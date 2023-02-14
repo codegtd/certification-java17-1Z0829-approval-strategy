@@ -31,7 +31,7 @@
 
 ### Disclaimer
 * The purposal here is to document a trajectory of a developer till "1Z0-829 OCD" approval.
-* Describing and sharing experiences/materials.
+* Describing and sharing experiences/materials, use this README.md as template, and document your Journey! It can help another people to understand how you got your objective.
 * There will be some textbook reccomendations.
 * Buying the textbooks using the links below, the author will receive a small bonus, but feel free to buy the textbooks whereever you want.
 * Instead of any bonus, the main reason here is to help people, in their journey through the "Java Certification".
@@ -48,8 +48,11 @@
 
 ### Exam Toughness
 * Oracle Java exams are considered "one of the most" tough in the software-development-world...
-* Listen carefully, the words "in 2 months you will pass". "1Z0-829 OCD" approval, can take some time. Think 
-  realystically.
+* Listen carefully, the words _"in 2 months you will pass"_. "1Z0-829 OCD" approval, can take some time. Think realystically.
+* _Professional experience_ can **(maybe will)** make shorter or longer your time-preparation. Thus, be aware 
+  _"real-world"_ or _"Industrial Experience"_ can help you **A LOT**. 
+* However, it is necessary to admit that longer time-preparation may be means that _more reviews, more questions,_ 
+  and consequently, a more _**consistent knowledge**_.
 * [1Z0-829 OCD](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829) | [1Z0-819 OCD](https://education.oracle.com/cat%C3%A1logo-de-produtos-ouexam-pexam_1z0-819/pexam_1Z0-819) can be harder, because it englobes [comparison](https://www.selikoff.net/ocp11-819/):
   * Professional Programmer I (Old 1Z0-815)
   * Professional Programmer II (Old 1Z0-817)
@@ -262,3 +265,4 @@
   * How To Register OCP/OCA 11 or 8 Exam
   * Oracle Java Certification - Your Hero's Journey to Mastery
   * Java certification Developer || Infosys in springboard portal || 2023
+  * Exam 1Z0-829 Oracle Certified Professional Java 17 Developer Certification Oracle Certification OCP
