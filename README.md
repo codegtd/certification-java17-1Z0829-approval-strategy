@@ -14,7 +14,6 @@
 * [General Content](#general-content)
 * [Statistics](#statistics)
 * [Certification Dificulty](#statistics)
-* [Pomodoro](#pomodoro)
 * [Module 01](#module-01)
 * [Module 02](#module-02)
 * [Module 03](#Module-03)
@@ -27,6 +26,9 @@
 * [Code Labs](#code-labs)
 * [Mindset](#mindset)
 * [YT Videos](#yt-videos)
+* [Interviews](#interviews)
+
+[//]: # (* [Pomodoro]&#40;#pomodoro&#41;)
 
 
 ### Disclaimer
@@ -90,8 +92,10 @@
         * [OCP Oracle Certified Professional Java SE 11 Developer Study Guide: Exam 1Z0-819](https://amzn.to/3jv83HS)
         * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819](https://amzn.to/3RxENg8)
         * [COMBO: OCP Oracle Certified Professional Java SE 11 - Certification Kit](https://amzn.to/3ldcY0u)
-      
-![img_2.png](img_2.png)
+
+<p align="center">
+  <img src="https://github.com/codegtd/certification-java17-1Z0829-approval-strategy/blob/master/img_2.png" alt="OCP Guide"/>
+</p>
 
 ### Other resources
 1. [Udemy - Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
@@ -99,7 +103,11 @@
 3. [Devnexus 2022 - Preparing for the Java Cert and Learning New Features (Part 2) - Scott S, Jeanne B](https://www.youtube.com/watch?v=zq9z_e2pMMI)
 4. [EnthuWare Question Studio](https://enthuware.com/oca-ocp-java-certification-resources/277-ocp-java-17-certification-preparation)
 
-![img_3.png](img_3.png)
+<p align="center">
+  <img src="https://github.com/codegtd/certification-java17-1Z0829-approval-strategy/blob/master/img_3.png" 
+alt="Enthuware Question Studio"/>
+</p>
+
 
 ### Theory Preparation
  1. Theory Preparation:
@@ -169,10 +177,10 @@
    * Oracle: The Value of IT Certication
    * PersonVUE: The value of certification for IT professionals
 
-### Pomodoro
-* The Pomodoro technique is a time management method that can be used for any task.
-* The Track-record below did not count May22(training start)
-![img_1.png](img_1.png)
+[//]: # (### Pomodoro)
+[//]: # (* The Pomodoro technique is a time management method that can be used for any task.)
+[//]: # (* The Track-record below did not count May22&#40;training start&#41;)
+[//]: # (![img_1.png]&#40;img_1.png&#41;)
 
 ### Module 01
    * Imports + Static imports
@@ -268,3 +276,22 @@
   * Oracle Java Certification - Your Hero's Journey to Mastery
   * Java certification Developer || Infosys in springboard portal || 2023
   * Exam 1Z0-829 Oracle Certified Professional Java 17 Developer Certification Oracle Certification OCP
+  
+### Interviews
+* Questions done:
+  1) How long do you take from the 'first day(including the textbook reading)' of preparation until 'the last 
+      day' of it(include the day of the exam)?
+  2) Did take the exam 'immediately' after, the last day of your preparation or did you took same rest before the exam, in order to relieve the preparation-stress?
+  3) How many 'hours per day (average)' you dedicated for exam-preparation?
+  4) How many days, per a week, did you usually study?
+  5) What was your professional experience, as Java developer, before the exam?
+  6) Did you have any previous Java certifications?
+  7) How does the certification improve your career?
+  8) The certification brought you more job opportunities/proposals for example, in your LinkedIn?
+  9) Can you say that, the certification increase your salary rates/proposals, when you apply for a new job 
+     position, in a new hiring process?
+  10) Do you think that, after your certification, the recruiters, coworks, managers/etc..., start to "see you as a 
+      differentiated/distinct professional"?
+* Check the Answers in YT comments:
+  * [DeCode](https://www.youtube.com/watch?v=UeeKTcW-q1s)
+  * [BrainLinker](https://www.youtube.com/watch?v=6gVEWpzJNWE)
