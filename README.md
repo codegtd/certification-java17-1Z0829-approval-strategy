@@ -40,10 +40,10 @@
     * It is **faster**, _believe me_!
     * More **complete**;
     * 100% **trusthfull** data;
-    * The authors are _**"real experts in the exam content/questions"**_, and:
-      * They keep in touch with the exam 100% of time (to update the textbooks)
-      * They take the exam periodically, they _get their hands dirty_!
-      * They keep in touch with Oracle, to clarify aspects about the exam.
+    * The authors are _**"real experts in the exam content/questions"**_, and They:
+      * keep in touch with the exam 100% of time (to update the textbooks)
+      * take the exam periodically, they _get their hands dirty_!
+      * keep in touch with Oracle, to clarify aspects about the exam.
 
 
 ### Exam Toughness
@@ -90,14 +90,16 @@
         * [OCP Oracle Certified Professional Java SE 11 Developer Study Guide: Exam 1Z0-819](https://amzn.to/3jv83HS)
         * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819](https://amzn.to/3RxENg8)
         * [COMBO: OCP Oracle Certified Professional Java SE 11 - Certification Kit](https://amzn.to/3ldcY0u)
-
+      
+![img_2.png](img_2.png)
 
 ### Other resources
 1. [Udemy - Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
 2. [Udemy - Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
 3. [Devnexus 2022 - Preparing for the Java Cert and Learning New Features (Part 2) - Scott S, Jeanne B](https://www.youtube.com/watch?v=zq9z_e2pMMI)
-4. [EnthuWare Questions Studio](https://enthuware.com/oca-ocp-java-certification-resources/277-ocp-java-17-certification-preparation)
+4. [EnthuWare Question Studio](https://enthuware.com/oca-ocp-java-certification-resources/277-ocp-java-17-certification-preparation)
 
+![img_3.png](img_3.png)
 
 ### Theory Preparation
  1. Theory Preparation:
