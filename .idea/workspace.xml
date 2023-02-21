@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d1df95-fb91-4fd7-bc43-999816edde11" name="Changes" comment="11) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Addin gnew YT Video" />
+    <list default="true" id="49d1df95-fb91-4fd7-bc43-999816edde11" name="Changes" comment="14) Certification Java17-1Z0829&#10;&#10;* Cycle REview Strategy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,11 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WORKBASE\DEV\CERTIFICATIONS\1-ORACLE-JAVA\REV-ACEL\REV-PHASE-03\GIT_HUB" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,76 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672956841101</updated>
-    </task>
-    <task id="LOCAL-00001" summary="4) Certification Java17-1Z0829&#10;&#10;* Improving README.md">
-      <created>1673046471848</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1673046471848</updated>
-    </task>
-    <task id="LOCAL-00002" summary="4) Certification Java17-1Z0829&#10;&#10;* Improving README.md">
-      <created>1673046672449</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1673046672449</updated>
-    </task>
-    <task id="LOCAL-00003" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
-      <created>1673134118107</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1673134118107</updated>
-    </task>
-    <task id="LOCAL-00004" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
-      <created>1673134223750</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1673134223750</updated>
-    </task>
-    <task id="LOCAL-00005" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
-      <created>1673134281215</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1673134281215</updated>
-    </task>
-    <task id="LOCAL-00006" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
-      <created>1673134426102</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1673134426102</updated>
-    </task>
-    <task id="LOCAL-00007" summary="5) Certification Java17-1Z0829&#10;&#10;* Improving README.md (back to index text-link)">
-      <created>1673134511261</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1673134511261</updated>
-    </task>
-    <task id="LOCAL-00008" summary="6) Certification Java17-1Z0829&#10;&#10;* Improving track-record image">
-      <created>1673483152735</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1673483152735</updated>
-    </task>
-    <task id="LOCAL-00009" summary="7) Certification Java17-1Z0829&#10;&#10;* Updating track-record image">
-      <created>1674774651817</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1674774651817</updated>
-    </task>
-    <task id="LOCAL-00010" summary="8) Certification Java17-1Z0829&#10;&#10;* Updating mistake stragegy">
-      <created>1675105318408</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1675105318408</updated>
     </task>
     <task id="LOCAL-00011" summary="8) Certification Java17-1Z0829&#10;&#10;* Updating mistake stragegy">
       <created>1675213833604</created>
@@ -333,7 +268,133 @@
       <option name="project" value="LOCAL" />
       <updated>1676382324260</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="11) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Addin gnew YT Video">
+      <created>1676382843605</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1676382843605</updated>
+    </task>
+    <task id="LOCAL-00043" summary="11) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Adding gnew YT Video">
+      <created>1676389223359</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1676389223359</updated>
+    </task>
+    <task id="LOCAL-00044" summary="12) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Adding gnew YT Video&#10;* Adding covers">
+      <created>1676757076874</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1676757076874</updated>
+    </task>
+    <task id="LOCAL-00045" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676757949670</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1676757949670</updated>
+    </task>
+    <task id="LOCAL-00046" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676758224549</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758224549</updated>
+    </task>
+    <task id="LOCAL-00047" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676758487134</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758487134</updated>
+    </task>
+    <task id="LOCAL-00048" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676758586824</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758586824</updated>
+    </task>
+    <task id="LOCAL-00049" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676758759433</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758759433</updated>
+    </task>
+    <task id="LOCAL-00050" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676758833540</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758833540</updated>
+    </task>
+    <task id="LOCAL-00051" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676758868662</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758868662</updated>
+    </task>
+    <task id="LOCAL-00052" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676758978040</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1676758978040</updated>
+    </task>
+    <task id="LOCAL-00053" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676759171249</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1676759171249</updated>
+    </task>
+    <task id="LOCAL-00054" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676759223667</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1676759223667</updated>
+    </task>
+    <task id="LOCAL-00055" summary="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments">
+      <created>1676863001591</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1676863001591</updated>
+    </task>
+    <task id="LOCAL-00056" summary="14) Certification Java17-1Z0829&#10;&#10;* Cycle REview Strategy">
+      <created>1676995950774</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1676995950774</updated>
+    </task>
+    <task id="LOCAL-00057" summary="14) Certification Java17-1Z0829&#10;&#10;* Cycle REview Strategy">
+      <created>1676995973418</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1676995973418</updated>
+    </task>
+    <task id="LOCAL-00058" summary="14) Certification Java17-1Z0829&#10;&#10;* Cycle REview Strategy">
+      <created>1676996061592</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1676996061592</updated>
+    </task>
+    <task id="LOCAL-00059" summary="14) Certification Java17-1Z0829&#10;&#10;* Cycle REview Strategy">
+      <created>1676996118502</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1676996118502</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,6 +424,10 @@
     <MESSAGE value="9) Certification Java17-1Z0829&#10;&#10;* Adding Amazon links" />
     <MESSAGE value="9) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Addin gnew YT Video" />
     <MESSAGE value="11) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Addin gnew YT Video" />
-    <option name="LAST_COMMIT_MESSAGE" value="11) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Addin gnew YT Video" />
+    <MESSAGE value="11) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Adding gnew YT Video" />
+    <MESSAGE value="12) Certification Java17-1Z0829&#10;&#10;* Adding some advices&#10;* Adding gnew YT Video&#10;* Adding covers" />
+    <MESSAGE value="13) Certification Java17-1Z0829&#10;&#10;* Adding interviews from YT comments" />
+    <MESSAGE value="14) Certification Java17-1Z0829&#10;&#10;* Cycle REview Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="14) Certification Java17-1Z0829&#10;&#10;* Cycle REview Strategy" />
   </component>
 </project>

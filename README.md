@@ -12,8 +12,8 @@
 * [Exam Preparation Questions Mistakes](#exam-preparation-questions-mistakes)
 * [Exam Execution Strategy](#exam-execution-strategy)
 * [General Content](#general-content)
+* [Cycle Review Strategy](#cycle-review-strategy)
 * [Statistics](#statistics)
-* [Certification Dificulty](#statistics)
 * [Module 01](#module-01)
 * [Module 02](#module-02)
 * [Module 03](#Module-03)
@@ -121,7 +121,9 @@ alt="Enthuware Question Studio"/>
     * Take Udemy Course (Java SE 11 Developer 1Z0-819 OCP Course)
       * Highlight course's PDFs
       * Content divided in 8 study-blocks
-    * Review weekly the PDFs after course conclusion
+ 3. Cycle Reviews:
+    * Procede Periodically reviews
+    * Review weekly the PDFs/your notes, using "Cycle-Review Strategy"
 
 ### Exam Preparation
 1. Exam-Questions Preparation:
@@ -137,14 +139,13 @@ alt="Enthuware Question Studio"/>
 
 
 ### Exam Preparation Questions Mistakes
-1. :recycle:Review mistakes "periodically":
+1. :recycle:Review mistakes "periodically", using "Cycle-Review Strategy":
    * Understand and explain for yourself, the reason of the mistakes
    * Repeat the mistaken question listed in the topic above
 2. :recycle: Golden Rules:
    * Mistakes are most efficent "source" of knowledge
    * Mistakes are not a SHAME, actually they are the "precise parameters" for improvements
-   * More mistakes 'done', 'understood' and 'reviewed', means more knowldge acquired, not only for the Exam, but 
-     also for Professional-Life.
+   * More mistakes 'done', 'understood' and 'reviewed', means more knowldge acquired, not only for the Exam, but also for Professional-Life.
 
 ### Exam Execution Strategy
 * **_Doubts:_** In case of doubt:
@@ -171,6 +172,18 @@ alt="Enthuware Question Studio"/>
      * Compatative: Primitive Table
      * Strategical-Plan SpreedSheet
      * Preparing for the Java cert and learning new features (Scott S, Jeanne B)
+
+### Cycle Review Strategy
+   * Cycle Reviews concept:
+     * A complete cycle review happens when ALL content(studied till the review-point) was reviewed
+       * EX: You have studied till module 04. Hence:
+         * A "cycle review" comprehends a review from module 01 to module 04
+     * Each stydy cycle "MUST" be completed
+       * Meaning, if a "complete set" of modules was not reviewed, it MUST be DONE
+         * BEFORE advance to the next cycle.
+     * "Cycle-Map Plan":
+       * in Strategical_Plan_SpreedSheet, there is a Plan called "Cycle-Map"
+       * where you will be able to map, register and control your cycles.
 
 ### Statistics
    * PersonVUE: 2021 Value of IT Certification Report
