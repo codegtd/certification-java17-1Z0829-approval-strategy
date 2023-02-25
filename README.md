@@ -12,7 +12,7 @@
 * [Exam Preparation Questions Mistakes](#exam-preparation-questions-mistakes)
 * [Exam Execution Strategy](#exam-execution-strategy)
 * [General Content](#general-content)
-* [Cycle Review Strategy](#cycle-review-strategy)
+* [Review Cicle Strategy](#review-cicle-strategy)
 * [Statistics](#statistics)
 * [Module 01](#module-01)
 * [Module 02](#module-02)
@@ -51,8 +51,7 @@
 ### Exam Toughness
 * Oracle Java exams are considered "one of the most" tough in the software-development-world...
 * Listen carefully, the words _"in 2 months you will pass"_. "1Z0-829 OCD" approval, can take some time. Think realystically.
-* _Professional experience_ can **(maybe will)** make shorter or longer your time-preparation. Thus, be aware 
-  _"real-world"_ or _"Industrial Experience"_ can help you **A LOT**. 
+* _Professional experience_ can **(will)** make shorter or longer your time-preparation. Thus, be aware _"real-world"_ or _"Industrial Experience"_ can help you **A LOT**. 
 * However, it is necessary to admit that longer time-preparation may be means that _more reviews, more questions,_ 
   and consequently, a more _**consistent knowledge**_.
 * [1Z0-829 OCD](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829) | [1Z0-819 OCD](https://education.oracle.com/cat%C3%A1logo-de-produtos-ouexam-pexam_1z0-819/pexam_1Z0-819) can be harder, because it englobes [comparison](https://www.selikoff.net/ocp11-819/):
@@ -173,17 +172,26 @@ alt="Enthuware Question Studio"/>
      * Strategical-Plan SpreedSheet
      * Preparing for the Java cert and learning new features (Scott S, Jeanne B)
 
-### Cycle Review Strategy
-   * Cycle Reviews concept:
-     * A complete cycle review happens when ALL content(studied till the review-point) was reviewed
-       * EX: You have studied till module 04. Hence:
-         * A "cycle review" comprehends a review from module 01 to module 04
-     * Each stydy cycle "MUST" be completed
-       * Meaning, if a "complete set" of modules was not reviewed, it MUST be DONE
-         * BEFORE advance to the next cycle.
-     * "Cycle-Map Plan":
-       * in Strategical_Plan_SpreedSheet, there is a Plan called "Cycle-Map"
-       * where you will be able to map, register and control your cycles.
+### Review Cicle Strategy
+   * The exam content is huge. A long the way, some content already "studied/trained" 
+     can be "forgotten". This suggestion/strategy can soften this trouble.
+   * A Review-Cicle happens when ALL content(till the current point) was reviewed
+       * EX: You have studied till module 04, Hence:
+         * A "Review-Cicle" comprehends a review from module 01 to module 04
+   * Each "Review-Cicle" "MUST" be completed, meaning:
+     * If a "set" of modules was not reviewed altogether
+       * it MUST be DONE, BEFORE advance/start to the next cycle.
+   * The Review-Cicles should be done, in the follow areas:
+     * THEORY REVIEWS (pdf's Or textbooks highlights)
+     * STANDARD TEST REVIEWS (Enthuware Stardard Tests)
+     * STANDARD TEST MISTAKES REVIEWS (Enthuware Stardard Tests mistakes)
+   * "Review-Cicles Worksheet":
+     * Strategical_Plan_SpreedSheet.xls contains a Worksheet called "Review-Cicle"
+       * Where is possible manage/count your cycles-reviews
+     * Using the "Review-Cicle" Worksheet:
+       * Each module-review completed fill-up the correspondent column, for instance:
+       ![img.png](img.png)
+       * When, a "Review-Cicle" is done, the "Review-Cicle" Worksheet automatically calculates the total's.
 
 ### Statistics
    * PersonVUE: 2021 Value of IT Certification Report
