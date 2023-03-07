@@ -193,6 +193,11 @@ alt="Enthuware Question Studio"/>
        ![img.png](img.png)
        * When, a "Review-Cicle" is done, the "Review-Cicle" Worksheet automatically calculates the total's.
 
+[//]: # (   * Track-record &#40;started fev23&#41;:)
+[//]: # (     * To begin with: This strategy have started to be recorded in fev23 &#40;final preparation-phase&#41;)
+[//]: # (     * Track-Record - Final preparation:)
+[//]: # (     ![img_4.png]&#40;img_4.png&#41;)
+
 ### Statistics
    * PersonVUE: 2021 Value of IT Certification Report
    * Oracle: The Value of IT Certication
